@@ -1,0 +1,18 @@
+{
+  "title": "消えた研究室の鍵・音声同期V3",
+  "duration_seconds": 84,
+  "shots": 19,
+  "burned_in_subtitles": false,
+  "separate_srt": true,
+  "has_audio": true,
+  "recommended_search_cutoff": "00:48",
+  "payoff_input": "田中は机の引き出しにあった予備鍵を使って研究室へ侵入しており、右手の指に付着した青い特殊インクがその証拠だった。",
+  "ftp": {
+    "foreshadow": [
+      {"start": "00:21", "end": "00:23", "fact": "田中が青いインクの付いた右手をポケットへ隠す"},
+      {"start": "00:36", "end": "00:39", "fact": "田中が予備鍵の入った引き出しを閉める"}
+    ],
+    "trigger": {"start": "00:48", "end": "00:58", "fact": "ドアの特殊インクは触れた人物の指へ付着すると説明される"},
+    "payoff": {"start": "01:02", "end": "01:24", "fact": "青い指と予備鍵から田中の侵入が明らかになる"}
+  }
+}
